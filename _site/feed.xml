@@ -1,0 +1,200 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Zer0TrustSec</title>
+  <subtitle>Your Trusted Source for Zero Trust Security Insights and Solutions# it will display as the sub-title</subtitle>
+  <updated>2023-09-27T22:39:35+05:30</updated>
+  <author>
+    <name>zer0trustsec</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 zer0trustsec </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Python Notes from Intro to Machine Learning ✅</title>
+    <link href="http://localhost:4000/posts/python-notes-from-intro-to-machine-learning/" rel="alternate" type="text/html" title="Python Notes from Intro to Machine Learning ✅" />
+    <published>2023-09-11T22:00:02+05:30</published>
+  
+    <updated>2023-09-11T22:00:02+05:30</updated>
+  
+    <id>http://localhost:4000/posts/python-notes-from-intro-to-machine-learning/</id>
+    <content src="http://localhost:4000/posts/python-notes-from-intro-to-machine-learning/" />
+    <author>
+      <name>zer0trustsec</name>
+    </author>
+
+  
+    
+    <category term="Resources" />
+    
+    <category term="bugbounty" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This article is for Demo purpose
+
+The article was originally on this repo
+
+I rarely use Python. I only have one repository at Github that is written in Python: iris-flower-classifier. And it was written two years ago!
+
+A few days ago I took this free course from Udacity: Intro to Machine Learning. The machine learning related codes are quite easy to grasp since it simply uses the scikit-learn m...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Cara ribet memperbarui forked repo</title>
+    <link href="http://localhost:4000/posts/cara-memperbarui-fork-repository/" rel="alternate" type="text/html" title="Cara ribet memperbarui forked repo" />
+    <published>2020-01-28T23:30:00+05:30</published>
+  
+    <updated>2020-01-28T23:30:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/cara-memperbarui-fork-repository/</id>
+    <content src="http://localhost:4000/posts/cara-memperbarui-fork-repository/" />
+    <author>
+      <name>santhosh</name>
+    </author>
+
+  
+    
+    <category term="Resources" />
+    
+    <category term="bugbounty" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
+
+
+
+Fig 1. Gambaran ribetnya.
+
+
+Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>What is a shell? 🐚 adalah kerang ajaib?</title>
+    <link href="http://localhost:4000/posts/apa-itu-shell/" rel="alternate" type="text/html" title="What is a shell? 🐚 adalah kerang ajaib?" />
+    <published>2020-01-25T10:28:47+05:30</published>
+  
+    <updated>2020-01-25T10:28:47+05:30</updated>
+  
+    <id>http://localhost:4000/posts/apa-itu-shell/</id>
+    <content src="http://localhost:4000/posts/apa-itu-shell/" />
+    <author>
+      <name>santhosh</name>
+    </author>
+
+  
+    
+    <category term="Linux" />
+    
+    <category term="Learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Dulu Sebelum adanya GUI cara user berinteraksi dengan komputer menggunakan CLI yaitu mengetik baris perintah pada sebuah antarmuka dalam bentuk baris teks seperti 👇.
+
+
+
+Fig 1. Terminal emulator, instalasi package dan check service.
+
+
+Jika kamu pernah menggunakan unix/linux mungkin pernah menggunakan program diatas, bahkan mungkin setiap hari menggunakannya untuk mengeksekusi suatu perintah mela...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>React Component with Dot Notation</title>
+    <link href="http://localhost:4000/posts/react-component-with-dot-notation/" rel="alternate" type="text/html" title="React Component with Dot Notation" />
+    <published>2018-04-07T21:34:00+05:30</published>
+  
+    <updated>2018-04-07T21:34:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/react-component-with-dot-notation/</id>
+    <content src="http://localhost:4000/posts/react-component-with-dot-notation/" />
+    <author>
+      <name>santhosh</name>
+    </author>
+
+  
+    
+    <category term="Resources" />
+    
+    <category term="Learning" />
+    
+    <category term="Programming" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This article is for Demo purpose
+
+The article was originally on this repo
+
+This is my answer to someone’s question on StackOverflow. How can we define a React component that is accessible through the dot notation?
+
+Take a look at the following code. We have the Menu component and its three children Menu.Item:
+
+const App = () =&amp;gt; (
+  &amp;lt;Menu&amp;gt;
+    &amp;lt;Menu.Item&amp;gt;Home&amp;lt;/Menu.Item&amp;gt;
+   ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
